@@ -1,0 +1,16 @@
+{
+	"code": 200,
+	"message": "Success",
+	"zpData": [
+		{ "name": "北京", "id": 1, "url": "/beijing/" },
+		{ "name": "上海", "id": 2, "url": "/shanghai/" },
+		{ "name": "深圳", "id": 3, "url": "/shenzhen/" },
+		{ "name": "杭州", "id": 4, "url": "/hangzhou/" },
+		{ "name": "广州", "id": 5, "url": "/guangzhou/" },
+		{ "name": "成都", "id": 6, "url": "/chengdu/" },
+		{ "name": "沈阳", "id": 7, "url": "/shenyang/" },
+		{ "name": "南京", "id": 8, "url": "/nanjing/" },
+		{ "name": "武汉", "id": 9, "url": "/wuhan/" },
+		{ "name": "西安", "id": 10, "url": "/xian/" }
+	]
+}

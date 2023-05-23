@@ -1,0 +1,32 @@
+{
+	"code": 200,
+	"message": "Success",
+	"zpData": [
+		{ "name": "全国", "id": 1, "url": "/?city=100010000" },
+		{ "name": "北京", "id": 2, "url": "/beijing/" },
+		{ "name": "上海", "id": 3, "url": "/shanghai/" },
+		{ "name": "广州", "id": 4, "url": "/guangzhou/" },
+		{ "name": "深圳", "id": 5, "url": "/shenzhen/" },
+		{ "name": "杭州", "id": 6, "url": "/hangzhou/" },
+		{ "name": "天津", "id": 7, "url": "/tianjin/" },
+		{ "name": "西安", "id": 8, "url": "/xian/" },
+		{ "name": "苏州", "id": 9, "url": "/suzhou/" },
+		{ "name": "武汉", "id": 10, "url": "/wuhan/" },
+		{ "name": "厦门", "id": 11, "url": "/xiamen/" },
+		{ "name": "长沙", "id": 12, "url": "/changsha/" },
+		{ "name": "成都", "id": 13, "url": "/chengdu/" },
+		{ "name": "郑州", "id": 14, "url": "/zhengzhou/" },
+		{ "name": "重庆", "id": 15, "url": "/chongqing/" },
+		{ "name": "佛山", "id": 16, "url": "/foshan/" },
+		{ "name": "合肥", "id": 17, "url": "/hefei/" },
+		{ "name": "济南", "id": 18, "url": "/jinan/" },
+		{ "name": "青岛", "id": 19, "url": "/qingdao/" },
+		{ "name": "南京", "id": 20, "url": "/nanjing/" },
+		{ "name": "东莞", "id": 21, "url": "/dongguan/" },
+		{ "name": "昆明", "id": 22, "url": "/kunming/" },
+		{ "name": "南昌", "id": 23, "url": "/nanchang/" },
+		{ "name": "石家庄", "id": 24, "url": "/shijiazhuang/" },
+		{ "name": "宁波", "id": 25, "url": "/ningbo/" },
+		{ "name": "福州", "id": 26, "url": "/fuzhou/" }
+	]
+}
